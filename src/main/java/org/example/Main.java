@@ -13,4 +13,6 @@ public class Main {
 }
 
 //it will print ravi n Ravi only coz once instance is created now it will load the
-// same instance again ans again , this is singleton design pattern;
+// same instance again ans again , this is singleton design pattern which help us to connect with
+// db set or instance once and then gives result from the loaded instance again and again wich saves
+//time and makes the process fast.
